@@ -163,3 +163,25 @@ C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPro
 C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\Application.UI.csproj.CopyComplete
 C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.exe
 C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPrograII20210531\Application.UI\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\Application.Common.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\Application.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\Application.Models.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\Application.Files.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\Application.Common.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\Application.Models.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\Application.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\bin\Debug\Application.Files.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\Application.UI.csproj.AssemblyReference.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomer.resources
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomerUpdate.resources
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\WindowsFormsApp1.FrmCustomerVisualizer.resources
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\Application.UI.csproj.GenerateResource.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\Application.UI.csproj.CoreCompileInputs.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\Application.UI.csproj.CopyComplete
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.UI\obj\Debug\WindowsFormsApp1.pdb

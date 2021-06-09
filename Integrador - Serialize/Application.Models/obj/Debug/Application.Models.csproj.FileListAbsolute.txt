@@ -34,3 +34,12 @@ C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Models\
 C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Models\obj\Debug\Application.Models.csproj.CopyComplete
 C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Models\obj\Debug\Application.Models.dll
 C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Models\obj\Debug\Application.Models.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Models\bin\Debug\Application.Models.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Models\bin\Debug\Application.Models.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Models\bin\Debug\Application.Common.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Models\bin\Debug\Application.Common.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Models\obj\Debug\Application.Models.csproj.AssemblyReference.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Models\obj\Debug\Application.Models.csproj.CoreCompileInputs.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Models\obj\Debug\Application.Models.csproj.CopyComplete
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Models\obj\Debug\Application.Models.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Models\obj\Debug\Application.Models.pdb

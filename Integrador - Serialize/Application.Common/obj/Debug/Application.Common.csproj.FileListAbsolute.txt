@@ -19,3 +19,9 @@ C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Common\
 C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Common\obj\Debug\Application.Common.csproj.CoreCompileInputs.cache
 C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Common\obj\Debug\Application.Common.dll
 C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application.Common\obj\Debug\Application.Common.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Common\bin\Debug\Application.Common.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Common\bin\Debug\Application.Common.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Common\obj\Debug\Application.Common.csproj.AssemblyReference.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Common\obj\Debug\Application.Common.csproj.CoreCompileInputs.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Common\obj\Debug\Application.Common.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Common\obj\Debug\Application.Common.pdb

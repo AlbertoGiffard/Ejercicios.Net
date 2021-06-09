@@ -98,18 +98,25 @@ namespace Application.Repositories
 
         public override void Update(Customer entity)
         {
-            Customer customer = this.GetById(entity.Id);
-
-            if (!(customer is null))
+            if (!(entity is null))
             {
                 for (int i = 0; i < CustomerRepository.customers.Count; i++)
                 {
-                    if (CustomerRepository.customers[i].Id == customer.Id)
+                    if (CustomerRepository.customers[i].Id == entity.Id)
                     {
-                        CustomerRepository.customers[i] = customer;
+                        CustomerRepository.customers[i] = entity;
                         break;
                     }
                 }
+
+                //foreach(Customer c in CustomerRepository.customers)
+                //{
+                //    if (c.Id == customer.Id)
+                //    {
+                //        CustomerRepository.customers.Remove(c);
+                //        CustomerRepository.customers.Add(customer);
+                //    }
+                //}
             }
         }
 

@@ -20,3 +20,9 @@ C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPro
 C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Files\obj\Debug\Application.Files.csproj.CoreCompileInputs.cache
 C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Files\obj\Debug\Application.Files.dll
 C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Files\obj\Debug\Application.Files.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Files\bin\Debug\Application.Files.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Files\bin\Debug\Application.Files.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Files\obj\Debug\Application.Files.csproj.AssemblyReference.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Files\obj\Debug\Application.Files.csproj.CoreCompileInputs.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Files\obj\Debug\Application.Files.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application.Files\obj\Debug\Application.Files.pdb

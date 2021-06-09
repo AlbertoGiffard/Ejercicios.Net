@@ -67,3 +67,16 @@ C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPro
 C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CopyComplete
 C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.dll
 C:\Users\alber\Downloads\RepasoPrograII-cascara\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\bin\Debug\Application.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\bin\Debug\Application.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\bin\Debug\Application.Common.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\bin\Debug\Application.Files.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\bin\Debug\Application.Models.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\bin\Debug\Application.Common.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\bin\Debug\Application.Files.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\bin\Debug\Application.Models.pdb
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\obj\Debug\Application.Logic.csproj.AssemblyReference.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\obj\Debug\Application.Logic.csproj.CoreCompileInputs.cache
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\obj\Debug\Application.Logic.csproj.CopyComplete
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\obj\Debug\Application.dll
+C:\Users\alber\Downloads\EjerciciosProgramacion2\Integrador - Serialize\Application\obj\Debug\Application.pdb
